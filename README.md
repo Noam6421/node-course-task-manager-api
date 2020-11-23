@@ -4,5 +4,5 @@
 
 ## Getting Started
 
-To use the app go to:
+To use the api the url is:
 https://korkos-task-manager.herokuapp.com/
